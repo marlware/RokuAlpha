@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<component name="MainScene" extends="Scene">
+    <children>
+        <!-- Simple text layer -->
+        <Label 
+            id="welcomeText"
+            text="Hello from Roku SceneGraph!"
+            width="1280"
+            height="720"
+            alignment="center"
+            horizAlign="center"
+            vertAlign="center" />
+    </children>
+</component>
